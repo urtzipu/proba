@@ -21,6 +21,7 @@ public class Hauteskundeak {
 	public static void main(String[] args) {
 		Hauteskundeak h2012 = new Hauteskundeak();
 		h2012.gehituMahaia("Irun");
+		h2012.gehituMahaia("tolosa");
 		System.out.println(h2012);
 	}
 
