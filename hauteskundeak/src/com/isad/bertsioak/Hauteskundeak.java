@@ -22,6 +22,7 @@ public class Hauteskundeak {
 		Hauteskundeak h2012 = new Hauteskundeak();
 
 		h2012.gehituMahaia("Irun");
+		h2012.gehituMahaia("Tolosa");
 
 		System.out.println(h2012);
 	}
